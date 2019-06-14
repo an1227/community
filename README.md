@@ -1,0 +1,2 @@
+# community
+这是基于某公司社区项目做的一个UI自动化框架，只有登录部分，主要是搞清楚unittest+selenium+python写自动化脚本时规范化的过程，后续有空就会学习更新
